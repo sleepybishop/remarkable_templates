@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1404px" height="1872px" viewBox="0 0 1404 1872" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <rect width="1404px" height="1872px" fill="#eeeeee"/>
+    <g stroke="#fff" stroke-width="6px">
+        <path d="m208 0v1872"/>
+        <path d="m416 0v1872"/>
+        <path d="m624 0v1872"/>
+        <path d="m832 0v1872"/>
+        <path d="m1040 0v1872"/>
+        <path d="m1248 0v1872"/>
+    </g>
+    <g stroke="#fff" stroke-width="6px">
+        <path d="m0   208h1404" stroke-width="6px"/>
+        <path d="m0   416h1404" stroke-width="6px"/>
+        <path d="m0   624h1404" stroke-width="6px"/>
+        <path d="m0   832h1404" stroke-width="6px"/>
+        <path d="m0  1040h1404" stroke-width="6px"/>
+        <path d="m0  1248h1404" stroke-width="6px"/>
+        <path d="m0  1456h1404" stroke-width="6px"/>
+        <path d="m0  1664h1404" stroke-width="6px"/>
+    </g>
+    <g stroke="#fff" stroke-width="2px">
+        <path d="m52 0v1872"/>
+        <path d="m104 0v1872"/>
+        <path d="m156 0v1872"/>
+        <path d="m260 0v1872"/>
+        <path d="m312 0v1872"/>
+        <path d="m364 0v1872"/>
+        <path d="m468 0v1872"/>
+        <path d="m520 0v1872"/>
+        <path d="m572 0v1872"/>
+        <path d="m676 0v1872"/>
+        <path d="m728 0v1872"/>
+        <path d="m780 0v1872"/>
+        <path d="m884 0v1872"/>
+        <path d="m936 0v1872"/>
+        <path d="m988 0v1872"/>
+        <path d="m1092 0v1872"/>
+        <path d="m1144 0v1872"/>
+        <path d="m1196 0v1872"/>
+        <path d="m1300 0v1872"/>
+        <path d="m1352 0v1872"/>
+    </g>
+    <g stroke="#fff" stroke-width="2px">
+        <path d="m0    0h1404"/>
+        <path d="m0   52h1404"/>
+        <path d="m0  104h1404"/>
+        <path d="m0  156h1404"/>
+        <path d="m0  260h1404"/>
+        <path d="m0  312h1404"/>
+        <path d="m0  364h1404"/>
+        <path d="m0  468h1404"/>
+        <path d="m0  520h1404"/>
+        <path d="m0  572h1404"/>
+        <path d="m0  676h1404"/>
+        <path d="m0  728h1404"/>
+        <path d="m0  780h1404"/>
+        <path d="m0  884h1404"/>
+        <path d="m0  936h1404"/>
+        <path d="m0  988h1404"/>
+        <path d="m0 1092h1404"/>
+        <path d="m0 1144h1404"/>
+        <path d="m0 1196h1404"/>
+        <path d="m0 1300h1404"/>
+        <path d="m0 1352h1404"/>
+        <path d="m0 1404h1404"/>
+        <path d="m0 1508h1404"/>
+        <path d="m0 1560h1404"/>
+        <path d="m0 1612h1404"/>
+        <path d="m0 1716h1404"/>
+        <path d="m0 1768h1404"/>
+        <path d="m0 1820h1404"/>
+    </g>
+</svg>
